@@ -1,8 +1,8 @@
 Clear-Host
 
-Write-Host "========================================" -ForegroundColor Purple
-Write-Host "             PURPLE BIRD               " -ForegroundColor Purple
-Write-Host "========================================" -ForegroundColor Purple
+Write-Host "========================================" -ForegroundColor Magenta
+Write-Host "             PURPLE BIRD               " -ForegroundColor Magenta
+Write-Host "========================================" -ForegroundColor Magenta
 Write-Host ""
 Write-Host "Select a simulation module to run:" -ForegroundColor Cyan
 Write-Host " [1] Virus:DOS/Finnish_Sprayer (module1.ps1)"
